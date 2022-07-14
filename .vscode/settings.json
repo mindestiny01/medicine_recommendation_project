@@ -1,0 +1,8 @@
+{
+    "git.ignoreLimitWarning": true,
+    "editor.fontSize": 12,
+    "editor.fontWeight": "bold",
+    "terminal.integrated.tabs.location": "left",
+    "terminal.integrated.fontSize": 12,
+    "terminal.integrated.fontWeight": "bold"
+}
