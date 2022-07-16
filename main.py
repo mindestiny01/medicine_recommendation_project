@@ -12,6 +12,16 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 def get_option():
+
+    hide_st_style = """
+            <style>
+            #MainMenu {visibility: hidden;}
+            footer {visibility: hidden;}
+            header {visibility: hidden;}
+            </style>
+            """
+    st.markdown(hide_st_style, unsafe_allow_html=True)
+
     selected = option_menu(
         menu_title = None,
         options = ['Home', 'Result', 'Graph', 'Table', 'Review'],

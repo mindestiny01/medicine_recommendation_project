@@ -1,9 +1,9 @@
-
+import sklearn
 
 import numpy as np
 import pandas as pd
 import spacy
 
 
-def recommendation(symtomps, another_symtomps, disease):
+def recommendation(symtomps, disease):
     pass
