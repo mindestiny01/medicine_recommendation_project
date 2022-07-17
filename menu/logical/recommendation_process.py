@@ -17,14 +17,17 @@ from sklearn.naive_bayes import GaussianNB
 from sklearn.tree import DecisionTreeClassifier
 from sklearn.ensemble import RandomForestClassifier
 
+# Updated Database from users
+from menu.logical.db import get_user_name, get_symtomps, get_save_data, get_user_review
+
+# Imported Analysis tools
+import spacy
 import re
 import streamlit as st
 import numpy as np
 import pandas as pd
-import spacy
-# from menu.logical.db import get_save_data, get_user_review, get_symtomps, get_user_name
 
-DATASET = 'indonesian_medicine_dataset.csv'
+DATASET = './data/indonesian_medicine_dataset.csv'
 
 def recommendation(record_symtomps: list):
     return record_symtomps[0]

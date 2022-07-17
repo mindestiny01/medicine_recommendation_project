@@ -57,5 +57,5 @@ def get_start():
             st.markdown(user_review)
             
             # Save the user data
-            # sd.get_save_data(user_name, age, sym_record, review_record)
+            get_save_data(user_name, age, sym_record, review_record)
             
