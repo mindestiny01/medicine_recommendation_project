@@ -2,6 +2,7 @@ import streamlit as st
 from awesome_table import AwesomeTable
 from awesome_table.column import Column
 import pandas as pd
+# from menu.logical.save_data import get_review
 
 
 def get_start():
