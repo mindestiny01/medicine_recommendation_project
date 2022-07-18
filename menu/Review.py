@@ -7,8 +7,8 @@ from menu.logical.db import get_save_data, get_user_review, get_symtomps, get_us
 
 def get_start():
     sample_review = './data/user_review.csv'
-    st.markdown("# 👨👩Some Review from Users")
-    st.caption("Hold 🖱️Left click + ⌨SHIFT to scrolled table to right")
+    st.markdown("# 👨👩Beberapa Tinjauan dari para pengguna")
+    st.caption("Tahan 🖱️Klik kiri + ⌨SHIFT untuk digulir ke kiri")
     AwesomeTable(pd.read_csv(sample_review), columns = [
         Column(name = 'ID', label = 'ID'),
         Column(name = 'Name', label = 'Nama Pengunjung'),

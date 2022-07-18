@@ -5,33 +5,36 @@ from menu.logical.db import get_save_data, get_user_review, get_symtomps, get_us
 
 def get_start():
 
+    # Change to Indonesia Language User Experiences
+    # Since the dataset in Indonesia Language, so the experience will in indonesia
+
     ## some configuration
-    symtomps = ["Symtomp One", "Symtomp Two", "Symtomp Three"]
-    reviews = ["Your Rating? Type A - F.", "Your Comment"]
+    symtomps = ["Gejala Satu", "Gejala Dua", "Gejala Tiga"]
+    reviews = ["Berikan Peringkat? Dari A - F.", "Komentar anda"]
 
     ## headers
-    st.header("✋ Recommendation Menu ✋")
+    st.header("✋ Menu Rekomendasi ✋")
 
     ## creating user form
-    with st.form("Input the related in to input box", clear_on_submit = True):
+    with st.form("Masukkan Data Diri kamu", clear_on_submit = True):
         
         ## make columns for name and age
         col_one, col_two = st.columns(2)
-        with col_one: user_name = st.text_input("Your Name", placeholder = "Input here")
-        with col_two: age = st.text_input("Your age: ", placeholder = "Input here")
+        with col_one: user_name = st.text_input("Nama anda", placeholder = "Ketik disini")
+        with col_two: age = st.text_input("Umur anda: ", placeholder = "Ketik disini")
 
         "---"
         ## text input for symtomps
-        with st.expander("Symtomps"):
+        with st.expander("Gejala"):
             for symtomp in symtomps: symtomp = st.text_input(f"{symtomp}", key = symtomp)
         
         # user comment
-        with st.expander("Reviews"):
+        with st.expander("Tinjuan"):
             for review in reviews: review = st.text_input(f"{review}", key = review)
 
         "---"
         ## submit buttom
-        submit = st.form_submit_button("Give the recommendation")
+        submit = st.form_submit_button("Berikan rekomendasi")
 
         ## if submitted
         if submit:
@@ -48,12 +51,13 @@ def get_start():
 
             #Data already recorded
             # Displaying the data
-            st.success("Data Saved!!")
-            st.markdown(f"Hai, **{user_name}**")
-            st.markdown(f"Your are **{age}** years old")
+            st.success("Data tersimpan !!!")
+            st.markdown(f"Halo, **{user_name}**")
+            st.markdown(f"Kamu saat ini berumur **{age}** Tahun")
+            st.markdown(f"Berikut gejala - gejala yang kamu rasakan saat ini: ")
             for idx, val in sym_record.items(): st.markdown(f"**{idx} = {val}**")
             for idx, val in review_record.items(): st.markdown(f"**{idx} = {val}**")
-            st.markdown(f"Recommendation medicine for you is/are:  **{result}**")
+            st.markdown(f"Rekomendasi obat terbaik untukmu adalah:  **{result}**")
             st.markdown(user_review)
             
             # Save the user data

@@ -6,8 +6,8 @@ from menu.logical.db import get_save_data, get_user_review, get_symtomps, get_us
 
 def get_start():
     sample_data = './data/indonesian_medicine_dataset.csv'
-    st.markdown("## ✋Welcome to Medicine Table Info ✋")
-    st.caption("Hold 🖱️Left click + ⌨SHIFT to scrolled table to right")
+    st.markdown("## ✋Selamat Datang di Info Obat ✋")
+    st.caption("Tahan 🖱️Klik kiri + ⌨SHIFT untuk digulir ke kiri")
     AwesomeTable(pd.read_csv(sample_data), columns = [
         Column(name = 'ID', label = 'ID'),
         Column(name = 'Name', label = 'Name Obat'),
