@@ -134,14 +134,14 @@ def get_visualization():
     # creating some of important visualization info for recommmendation
     pass
 
-def count_vectorizer_example():
+# def count_vectorizer_example():
 
-    #Example of Processing the Text
-    count_vectorizer= CountVectorizer(encoding='latin-1', ngram_range=(1,1), 
-                                  tokenizer=None, analyzer='word',
-                                  stop_words= None)
-    countvec= count_vectorizer.fit_transform(df['desc_cleanfix']).toarray()
-    return countvec
+#     #Example of Processing the Text
+#     count_vectorizer= CountVectorizer(encoding='latin-1', ngram_range=(1,1), 
+#                                   tokenizer=None, analyzer='word',
+#                                   stop_words= None)
+#     countvec= count_vectorizer.fit_transform(df['desc_cleanfix']).toarray()
+#     return countvec
 
 def pre_processing_data():
 
