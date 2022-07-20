@@ -29,15 +29,22 @@ import pandas as pd
 
 DATASET = './data/indonesian_medicine_dataset.csv'
 
-def recommendation(record_symtomps: list):
-    return record_symtomps[0]
-
 def pre_processing_data():
     dt = pd.read_csv(DATASET); dt = dt.loc[:, ~dt.columns.str.contains('^Unnamed')]
     print(dt.dtypes)
 
+def get_tokenize():
+    pass
     stopwords = StopWordRemoverFactory().get_stop_words()
 
+def optimalization_token():
+    pass
 
+def step_of_recommendation():
+    pass
 
-pre_processing_data()
+def main_recommendation(record_symtomps: list):
+    return record_symtomps[0]
+
+if __name__ == '__main__':
+    pre_processing_data()

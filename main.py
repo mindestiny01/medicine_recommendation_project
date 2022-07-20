@@ -1,10 +1,10 @@
 import streamlit as st
 from streamlit_option_menu import option_menu
 from menu import (
-    Home, 
-    Result, 
-    Graph, 
-    Table, 
+    Diagram,
+    Hasil,
+    Home,
+    Tabel, 
     Review)
 
 import numpy as np
@@ -24,7 +24,7 @@ def get_option():
 
     selected = option_menu(
         menu_title = None,
-        options = ['Home', 'Result', 'Graph', 'Table', 'Review'],
+        options = ['Home', 'Hasil', 'Diagram', 'Tabel', 'Review'],
         icons = ['house', 'boxes', 'file-bar-graph', 'table', 'people'],
         menu_icon = 'house-fill', 
         default_index = 0,
@@ -32,9 +32,9 @@ def get_option():
     )
     
     if selected == 'Home': Home.get_start()
-    if selected == 'Result': Result.get_start() 
-    if selected == 'Graph': Graph.get_start()
-    if selected == 'Table': Table.get_start()
+    if selected == 'Hasil': Hasil.get_start() 
+    if selected == 'Diagram': Diagram.get_start()
+    if selected == 'Tabel': Tabel.get_start()
     if selected == 'Review': Review.get_start()
 
 get_option()

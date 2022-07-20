@@ -10,7 +10,7 @@ def get_start():
     st.caption("Tahan 🖱️Klik kiri + ⌨SHIFT untuk digulir ke kiri")
     AwesomeTable(pd.read_csv(sample_data), columns = [
         Column(name = 'ID', label = 'ID'),
-        Column(name = 'Name', label = 'Name Obat'),
+        Column(name = 'Name', label = 'Nama Obat'),
         Column(name = 'Overview', label = 'Deskripsi Obat'),
         Column(name = 'Works', label = 'Cara Kerja'),
         Column(name = 'Effects', label = 'Efek Penggunaan'),

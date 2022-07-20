@@ -1,6 +1,6 @@
 import streamlit as st
 from fpdf import FPDF
-from menu.logical.recommendation_process import recommendation
+from menu.logical.recommendation_process import main_recommendation
 from menu.logical.db import get_save_data, get_user_review, get_symtomps, get_user_name
 
 def get_start():
@@ -46,7 +46,7 @@ def get_start():
 
             ## Appending the value of dictionary
             for v in sym_record.values(): record_symtomps.append(v)
-            result = recommendation(record_symtomps) # get the reccomnendation
+            result = main_recommendation(record_symtomps) # get the reccomnendation
             user_review = get_user_review(review_record)
 
             #Data already recorded
