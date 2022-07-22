@@ -14,8 +14,8 @@ db = deta.Base("user_recommendation_result")
 
 # Save the data to the Deta base (Create)
 def get_save_data(
-    user_name: str, age: int, sym_record: dict, review_record: dict ):
-    return db.put({"key": user_name, "age": age, "Symtomps": sym_record, "Reviews": review_record})
+    user_name: str, user_age: int, sym_record: dict, review_record: dict ):
+    return db.put({"key": user_name, "age": user_age, "symtomps": sym_record, "reviews": review_record})
 
 # Get the specific key, which is user name to get all the information (Read)
 def get_user_name(user_name):

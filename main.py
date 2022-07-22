@@ -4,12 +4,13 @@ from menu import (
     Diagram,
     Hasil,
     Home,
-    Tabel, 
-    Review)
+    Tabel)
 
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
+
+from menu import Review
 
 def get_option():
 

@@ -5,7 +5,7 @@ from awesome_table.column import Column
 from menu.logical.db import get_save_data, get_user_review, get_symtomps, get_user_name
 
 def get_start():
-    sample_data = './data/indonesian_medicine_dataset.csv'
+    sample_data = 'menu/logical/data/indonesian_medicine_dataset.csv'
     st.markdown("## ✋Selamat Datang di Info Obat ✋")
     st.caption("Tahan 🖱️Klik kiri + ⌨SHIFT untuk digulir ke kiri")
     AwesomeTable(pd.read_csv(sample_data), columns = [
