@@ -85,7 +85,7 @@ if __name__ == '__main__':
 
     # Get match topics from the bunch of medication keywords and return a new column as match_info
     match = r"\b({})\b".format("|".join(x for x in symtomps))
-    dt['match_info'] = dt['stopwords'].str.extract(match).fillna('not match')
+    dt['match_info'] = dt['stopwords'].str.extract(match).fillna('Undefined')
     
     # Create a dictionary for the new dataset
     new_dataset = {

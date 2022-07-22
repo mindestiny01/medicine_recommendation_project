@@ -1,0 +1,380 @@
+,Name,Symtomps
+0,Acarbose,darah
+1,Acetazolamide,mata
+2,Acetylcysteine,overdosis
+3,Acrivastine,gatal
+4,Acyclover Topical,infeksi
+5,Acyclovir,infeksi
+6,Albendazole,cacing
+7,Albumin,bengkak
+8,Allopurinol,sendi
+9,Allylestrenol,hamil
+10,Alpha-Lipoic Acid,kulit
+11,Alprazolam,panik
+12,Aluminium Hidroksida,sakit
+13,Ambroxol,lendir
+14,Amikacin,antibiotik
+15,Amineptine,depresi
+16,Aminofilin,paru
+17,Amiodarone,jantung
+18,Amitriptyline,depresi
+19,Amlodipine,darah
+20,Amonium Klorida,batuk
+21,Amoxapine,depresi
+22,Amoxicillin,antibiotik
+23,Amphotericin B,infeksi
+24,Ampicillin,antibiotik
+25,Anidulafungin,infeksi
+26,Apixaban,stroke
+27,Arginine,nyeri
+28,Aripiprazole,depresi
+29,Bacitracin,infeksi
+30,Baclofen,kejang
+31,Bambuterol,asma
+32,Benazepril,tekanan
+33,Benzoyl Peroxide,jerawat
+34,Betametason,asma
+35,Biotin,rambut
+36,Bisacodyl,usus
+37,Boron,nyeri
+38,Botulinum Toxin,mata
+39,Bromelain,hidung
+40,Bromhexine,batuk
+41,Bromocriptine,hormon
+42,Brompheniramine,hidung
+43,Budesonide,usus
+44,Bupivacaine,tulang
+45,Bupropion,depresi
+46,Busulfan,kanker
+47,Calcitriol,hormon
+48,Calcium Acetate,ginjal
+49,Calcium Carbonate,gigi
+50,Candesartan,tekanan
+51,Captopril,tekanan
+52,Carbamazepine,kejang
+53,Carbimazole,hormon
+54,Carvedilol,jantung
+55,Caspofungin,infeksi
+56,Cefadroxil,infeksi
+57,Cefazolin,antibiotik
+58,Cefepime,antibiotik
+59,Cefidinir,antibiotik
+60,Cefixime,antibiotik
+61,Cefoperazone,antibiotik
+62,Cefotaxim,antibiotik
+63,Ceftazidime,antibiotik
+64,Ceftriaxone,antibiotik
+65,Cefuroxime,antibiotik
+66,Celecoxib,nyeri
+67,Cephalexin,infeksi
+68,Cetirizine,gatal
+69,Chlordiazepoxide,Undefined
+70,Chlorpheniramine,hidung
+71,Chlorpromazine,depresi
+72,Cholestyramine,kolesterol
+73,Ciclosporin,imun
+74,Cilostazol,nyeri
+75,Cimetidine,luka
+76,Cinnarizine,mual
+77,Dabigatran,darah
+78,Desloratadine,bersin
+79,Desoximetasone,gatal
+80,Dexamethasone,kulit
+81,Dexchlorpheniramine,Undefined
+82,Dexketoprofen,nyeri
+83,Dextromethorphan,batuk
+84,Dextrose,darah
+85,Diazepam,Undefined
+86,Diclofenac,nyeri
+87,Diethylcarbamazine,infeksi
+88,Digoxin,jantung
+89,Diltiazem,hipertensi
+90,Dimenhydrinate,mual
+91,Dimethicone,kutu
+92,Diphenhydramine,bersin
+93,Disulfiram,Undefined
+94,Dobutamine,jantung
+95,Docosahexaenoic Acid (DHA),darah
+96,Domperidone,mual
+97,Donepezil,Undefined
+98,Dopamine,jantung
+99,Doripenem,infeksi
+100,Doxycycline,antibiotik
+101,Duloxetine,depresi
+102,Enalapril,tekanan
+103,Eperisone,otot
+104,Ephedrine,sesak
+105,Epinephrine,gatal
+106,Erdosteine,paru
+107,Ergotamine,migrain
+108,Erythromycin,antibiotik
+109,Escitalopram,depresi
+110,Esomeprazole,lambung
+111,Estazolam,insomnia
+112,Estradiol,menopause
+113,Estrogen,menopause
+114,Ethambutol,tuberculosis
+115,Etodolac,nyeri
+116,Etoricoxib,nyeri
+117,Famotidine,luka
+118,Felodipine,tekanan
+119,Fenofibrate,kolesterol
+120,Fentanyl,nyeri
+121,Ferrous Fumarate,darah
+122,Fexofenadine,anak
+123,Fibrinogen,Undefined
+124,Finasteride,kanker
+125,Fluconazole,infeksi
+126,Flunarizin,migrain
+127,Fluoxetine,depresi
+128,Fluphenazine,Undefined
+129,Fluvoxamine,Undefined
+130,Fondaparinux,darah
+131,Formaldehyde,virus
+132,Fosinopril,tekanan
+133,Furosemide,bengkak
+134,Gabapentin,nyeri
+135,Galantamine,Undefined
+136,Gemfibrozil,kolesterol
+137,Gentamicin,virus
+138,Glibenclamide,hormon
+139,Glimepiride,Undefined
+140,Gliquidone,darah
+141,Glucagon,darah
+142,Glucosamine,nyeri
+143,Glycerol,batuk
+144,Glycopyrronium bromide,luka
+145,Granisetron,mual
+146,Griseofulvin,jamur
+147,Guaifenesin,pilek
+148,Haloperidol,saraf
+149,Heparin,darah
+150,Homochlorcyclizine dihydrochloride,Undefined
+151,Human Chorionic Gonadotropin (HCG),hormon
+152,Hydrochlorothiazide (HCTZ),bengkak
+153,Hydrocortisone,kulit
+154,Hydroquinone,kulit
+155,Hyoscine,kram
+156,Hyoscyamine,lambung
+157,Ibuprofen,demam
+158,Iloprost,hipertensi
+159,Imipramine,depresi
+160,Indinavir,infeksi
+161,Indomethacin,nyeri
+162,Insulin,hormon
+163,Ipratropium bromide,paru
+164,Irbesartan,hipertensi
+165,Isoniazid,Undefined
+166,Isosorbide Dinitrate,nyeri
+167,Isotretinoin,jerawat
+168,Isoxsuorine HCI,darah
+169,Isradipine,tekanan
+170,Itraconazole,infeksi
+171,Ivermectin,infeksi
+172,Kanamycin,infeksi
+173,Kaolin,diare
+174,Ketamine,sakit
+175,Ketoconazole,infeksi
+176,Ketoprofen,nyeri
+177,Ketorolac,nyeri
+178,Ketotifen,bersin
+179,Kloramfenikol,infeksi
+180,L-Glutamine (Glutamine),usus
+181,Lactic Acid,kulit
+182,Lactobacillus Acidophilus,infeksi
+183,Lactobacillus acidophilus,infeksi
+184,Lactulose,otak
+185,Lanolin,kulit
+186,Lansoprazole,luka
+187,Levodopa,saraf
+188,Levofloxacin,infeksi
+189,Levonorgestrel,Undefined
+190,Lidocaine,sakit
+191,Lincomycin,infeksi
+192,Lisinopril,hipertensi
+193,Lithium,hati
+194,Loperamide,diare
+195,Loratadine,bersin
+196,Lorazepam,Undefined
+197,Losartan,hipertensi
+198,Lovastatin,kolesterol
+199,Lutein,mata
+200,Lysine,kulit
+201,Magnesium Hidroksida,sulit
+202,Manitol,ginjal
+203,Mebhydrolin,gatal
+204,Meloxicam,sakit
+205,Memantine,sulit
+206,Meropenem,infeksi
+207,Metamfetamin,tekanan
+208,Metampicillin,infeksi
+209,Metformin,jantung
+210,Methadone,bahagia
+211,Methisoprinol,infeksi
+212,Methotrexate,kanker
+213,Methylcobalamin,darah
+214,Methylprednisolone,radang
+215,Metil Salisilat,nyeri
+216,Metildopa,hipertensi
+217,Metoclopramide,lambung
+218,Metoprolol,nyeri
+219,Metronidazole,antibiotik
+220,Miconazole,infeksi
+221,Midazolam,gigi
+222,Minoxidil,hipertensi
+223,Misoprostol,lambung
+224,Modafinil,tidur
+225,Montelukast,anak
+226,Morfin,sakit
+227,Moxifloxacin,infeksi
+228,Mupirocin,antibiotik
+229,Naltrexone,Undefined
+230,Naproxen,sendi
+231,Nateglinide,darah
+232,Natrium Bikarbonat,nyeri
+233,Nebivolol,tekanan
+234,Nedocromil,asma
+235,Nefazodone,depresi
+236,Neomycin,antibiotik
+237,Neostigmine,otot
+238,Nepafenac,mata
+239,Nesiritide,jantung
+240,Nicardipine,hipertensi
+241,Nicorandil,nyeri
+242,Nicotinamide,hamil
+243,Nifedipine,tekanan
+244,Nifuroxazide,antibiotik
+245,Nilotinib,kanker
+246,Nimorazole,infeksi
+247,Nimustine,otak
+248,Nisoldipine,tekanan
+249,Nitrazepam,sulit
+250,Nitrofurantoin,antibiotik
+251,Nitrogliserin,nyeri
+252,Nizatidine,luka
+253,Nordazepam,insomnia
+254,Norepinephrine,tekanan
+255,Norethisterone,rahim
+256,Noscapine,batuk
+257,Nystatin,infeksi
+258,Pantoprazole,kerongkongan
+259,Papaverine,kejang
+260,Paracetamol,sakit
+261,Parecoxib,nyeri
+262,Paromomycin,infeksi
+263,Pefloxacin,antibiotik
+264,Penbutolol,tekanan
+265,Penciclovir,kulit
+266,Perindopril,tekanan
+267,Permethrin,infeksi
+268,Phenobarbital,kejang
+269,Phenylbutazone,nyeri
+270,Phenylephrine,hidung
+271,Phenylpropanolamine,hidung
+272,Phenytoin,kejang
+273,Pilocarpine,tekanan
+274,Pioglitazone,darah
+275,Piracetam,otot
+276,Piroxicam,nyeri
+277,Policresulen,radang
+278,Potassium Acetate,tekanan
+279,Povidone Iodine,infeksi
+280,Pramipexole,otot
+281,Praziquantel,infeksi
+282,Prednisolone,radang
+283,Prednisone,radang
+284,Pregabalin,kejang
+285,Probenecid,nyeri
+286,Procainamide,jantung
+287,Prochlorperazine,mual
+288,Quinidine,jantung
+289,Quinine,Undefined
+290,Radium,kanker
+291,Ramipril,tekanan
+292,Ranitidin,luka
+293,Ranolazine,nyeri
+294,Regdanvimab,virus
+295,Riboflavin,Undefined
+296,Rifabutin,infeksi
+297,Rifampicin,infeksi
+298,Risperidone,anak
+299,Rivastigmine,hilang
+300,Ropinirole,kram
+301,Rosuvastatin,anak
+302,Saccharomyces boulardii Iyo,diare
+303,Salbutamol,asma
+304,Salmeterol,asma
+305,Satranidazole,nanah
+306,Scopolamine,mual
+307,Sea Water,hidung
+308,Secukinumab,kulit
+309,Selegenile,tremor
+310,Sertraline,depresi
+311,Sildenafil,Undefined
+312,Simethicone,sakit
+313,Simvastatin,kolesterol
+314,Spiramycin,infeksi
+315,Spironolactone,jantung
+316,Squalene,hati
+317,Streptokinase,darah
+318,Streptomycin,antibiotik
+319,Strontinum,tulang
+320,Sukralfat,luka
+321,Sulfadizine,antibiotik
+322,Sulfamethoxazole,antibiotik
+323,Sulfanilamide,infeksi
+324,Sulfasalazine,radang
+325,Sumatripan,migrain
+326,Tadalafil,penis
+327,Tafluprost,tekanan
+328,Tamoxifen,kanker
+329,Tamsulosin,kemih
+330,Telmisartan,tekanan
+331,Temazepan,insomnia
+332,Tembaga,tulang
+333,Tenofovir,virus
+334,Teofilin,asma
+335,Terazosin,hipertensi
+336,Terbinafine,infeksi
+337,Terbutaline,sesak
+338,Testosterone,hormon
+339,Tetracycline,infeksi
+340,Thalimode,kanker
+341,Thiamphenicole,infeksi
+342,Tiabendazole,infeksi
+343,Ticlopidine,stroke
+344,Timolon,hipertensi
+345,Tizanidine,otot
+346,Tobramycin,infeksi
+347,Tramadol,nyeri
+348,Tretinoin,jerawat
+349,Triamcinolone,radang
+350,Triclosan,jerawat
+351,Trihexyphenidyl,tremor
+352,Trimethoprin,infeksi
+353,Triprolidine,bersin
+354,Tripsin,usus
+355,Vaksin BCG,anak
+356,Valacyclovir,infeksi
+357,Valsartan,tekanan
+358,Vancomycin,antibiotik
+359,Vasopressin,ginjal
+360,Verapamil,hipertensi
+361,Vildagliptin,Undefined
+362,Vincristine,kanker
+363,Vitamin A,mata
+364,Vitamin B1,radang
+365,Vitamin B12,darah
+366,Vitamin B2,infeksi
+367,Vitamin B3 (Niacin),kolesterol
+368,Vitamin B5,Undefined
+369,Vitamin B6,Undefined
+370,Vitamin B9 (Asam Volat),ginjal
+371,Vitamin C,pilek
+372,Vitamin D,tulang
+373,Vitamin E,Undefined
+374,Vitamin K,darah
+375,Warfarin,darah
+376,White petrolatum,luka
+377,Zinc Sulfat,Undefined
+378,Zolpidem,insomnia
